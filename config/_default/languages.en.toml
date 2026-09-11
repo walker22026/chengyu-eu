@@ -1,0 +1,21 @@
+locale = "en"
+label = "English"
+weight = 1
+title = "Chengyu Wang"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2006-01-02"
+  description = "Final-year Computer Science student at the University of Sydney — notes on what I build, and what I'm looking for next."
+
+[params.author]
+  name = "Chengyu"
+  headline = "Final-year CS student @ University of Sydney"
+  bio = "I'm Chengyu — a final-year Computer Science student at the University of Sydney. I write about the things I build and break, and I'm currently looking for my next opportunity."
+  # links = [
+  #   { github = "https://github.com/your-handle" },
+  #   { linkedin = "https://www.linkedin.com/in/your-handle" },
+  #   { email = "you@example.com" },
+  # ]

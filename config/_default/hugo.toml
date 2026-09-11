@@ -3,11 +3,11 @@
 
 theme = "blowfish"
 baseURL = "https://chengyu.eu/"
-defaultContentLanguage = "zh-cn"
+defaultContentLanguage = "en"
 
 enableRobotsTXT = true
 summaryLength = 30
-hasCJKLanguage = true
+hasCJKLanguage = false
 
 buildDrafts = false
 buildFuture = false

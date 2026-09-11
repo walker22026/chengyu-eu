@@ -1,9 +1,7 @@
 ---
-title: "成语 Chengyu.eu"
+title: "Chengyu Wang"
 ---
 
-欢迎来到 **Chengyu.eu**。
+Hi, I'm **Chengyu** — a final-year Computer Science student at the University of Sydney.
 
-这里记录中国成语背后的典故、出处与在今天依然适用的智慧 —— 每一个成语，都是一段浓缩的历史。
-
-网站正在建设中，敬请期待更多内容。
+This site is my running notebook: the things I build, the problems I run into, and how I fixed (or didn't fix) them. I'm currently looking for graduate software engineering opportunities — read more [about me](/about).

@@ -1,21 +1,21 @@
 # -- Main Menu --
 [[main]]
-  name = "首页"
+  name = "Home"
   pageRef = "/"
   weight = 10
 
 [[main]]
-  name = "成语故事"
+  name = "Blog"
   pageRef = "posts"
   weight = 20
 
 [[main]]
-  name = "关于"
+  name = "About"
   pageRef = "about"
   weight = 30
 
 # -- Footer Menu --
 [[footer]]
-  name = "标签"
+  name = "Tags"
   pageRef = "tags"
   weight = 10

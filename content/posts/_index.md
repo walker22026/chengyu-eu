@@ -1,5 +1,5 @@
 ---
-title: "成语故事"
+title: "Blog"
 ---
 
-一篇篇成语典故，讲述它们从何而来、又该如何使用。
+Notes on what I've been building — mostly self-hosting, AI tooling, and the occasional deep dive into a bug I couldn't leave alone.

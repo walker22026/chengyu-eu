@@ -1,10 +1,16 @@
 ---
-title: "关于"
+title: "About"
 showDate: false
 showAuthor: true
 showEdit: false
 ---
 
-**Chengyu.eu** 是一个关于中国成语的小站：整理成语的出处、故事与用法，希望能帮助更多人（尤其是海外的中文学习者）理解这些浓缩在四个字里的历史与智慧。
+I'm **Chengyu**, a final-year Computer Science student at the University of Sydney. I like building things end-to-end — self-hosted infrastructure on my home NAS, small AI-powered tools, the occasional Cloudflare Workers project — and writing down what I learn along the way.
 
-网站目前仍在搭建阶段，内容会持续更新。
+Most of the posts on this site started as personal projects: deploying open-source software, wiring AI models into real workflows, and occasionally breaking (and fixing) my own servers.
+
+### What I'm looking for
+
+I'm currently looking for **graduate software engineering opportunities**. I'm particularly interested in backend systems, infrastructure, and applied AI.
+
+*(Résumé, GitHub, LinkedIn, and contact links go here.)*

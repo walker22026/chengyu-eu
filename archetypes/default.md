@@ -4,5 +4,5 @@ date: {{ .Date }}
 draft: true
 summary: ""
 tags: []
-categories: ["成语故事"]
+categories: ["Blog"]
 ---
