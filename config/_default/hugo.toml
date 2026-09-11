@@ -1,0 +1,51 @@
+# -- Site Configuration --
+# https://blowfish.page/docs/configuration/
+
+theme = "blowfish"
+baseURL = "https://chengyu.eu/"
+defaultContentLanguage = "zh-cn"
+
+enableRobotsTXT = true
+summaryLength = 30
+hasCJKLanguage = true
+
+buildDrafts = false
+buildFuture = false
+
+enableEmoji = true
+
+[pagination]
+  pagerSize = 12
+
+[imaging]
+  anchor = "Center"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  author = "authors"
+  series = "series"
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[related]
+  threshold = 0
+  toLower = false
+
+  [[related.indices]]
+    name = "tags"
+    weight = 100
+
+  [[related.indices]]
+    name = "categories"
+    weight = 100
+
+  [[related.indices]]
+    name = "date"
+    weight = 10
