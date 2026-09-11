@@ -13,6 +13,7 @@ mainSections = ["posts"]
 
 disableImageOptimization = false
 backgroundCanvas = false
+hotlinkFeatureImage = true
 defaultFeaturedImage = "img/featured.svg"
 
 highlightCurrentMenuArea = true
