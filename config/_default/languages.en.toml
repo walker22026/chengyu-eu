@@ -8,12 +8,12 @@ title = "Chengyu Wang"
   isoCode = "en"
   rtl = false
   dateFormat = "2006-01-02"
-  description = "Final-year Computer Science student at the University of Sydney — notes on what I build, and what I'm looking for next."
+  description = "Final-year Computer Science student at the University of Sydney — notes on what I build, and everything else I'm into."
 
 [params.author]
   name = "Chengyu"
   headline = "Final-year CS student @ University of Sydney"
-  bio = "I'm Chengyu — a final-year Computer Science student at the University of Sydney. I write about the things I build and break, and I'm currently looking for my next opportunity."
+  bio = "I'm Chengyu — a final-year Computer Science student at the University of Sydney. I write about the things I build and break, plus hiking, travel, gaming, and gadgets."
   # links = [
   #   { github = "https://github.com/your-handle" },
   #   { linkedin = "https://www.linkedin.com/in/your-handle" },
