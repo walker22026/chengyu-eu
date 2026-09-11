@@ -4,6 +4,7 @@ date: 2024-04-28T13:57:08+00:00
 summary: "Adding a caching plugin for faster page loads, plus wiring up Google Analytics."
 tags: ["Typecho", "Self-Hosting"]
 categories: ["Blog"]
+featureImage: "https://images.chengyu.eu/file/1ce8c47716f26d21d4b40.png"
 ---
 
 Two small optimisations to the blog today: adding a caching plugin to speed up page loads, and wiring up visitor analytics.

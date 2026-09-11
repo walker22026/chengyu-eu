@@ -4,6 +4,7 @@ date: 2024-05-01T13:00:11+00:00
 summary: "Wiring up Obsidian's Whisper plugin to the free Cloudflare-backed OpenAI API from the previous post."
 tags: ["Obsidian", "AI", "Self-Hosting"]
 categories: ["Blog"]
+featureImage: "https://images.chengyu.eu/file/ef2f7eff762bfee44c2c0.png"
 ---
 
 Finished wiring up Whisper and Obsidian today, so voice recordings dropped into a note now get automatically transcribed to text — fully hands-off.

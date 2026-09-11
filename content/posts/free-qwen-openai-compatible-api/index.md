@@ -4,6 +4,7 @@ date: 2024-05-01T06:48:10+00:00
 summary: "Wrapping Cloudflare's free Workers AI models (including Qwen) behind an OpenAI-compatible endpoint, so existing front-ends don't need to change a line of code."
 tags: ["Cloudflare", "LLM", "AI"]
 categories: ["Blog"]
+featureImage: "https://images.chengyu.eu/file/61ba56c51890282cac3a9.png"
 ---
 
 Plenty of large language models are usable for free these days, but a reasonably stable API service still usually costs money. Cloudflare — famously generous when it comes to free tiers — offers a decent free allowance here too. Its "Beta" model tier is free, and remarkably that even includes a large model like Alibaba's Qwen.

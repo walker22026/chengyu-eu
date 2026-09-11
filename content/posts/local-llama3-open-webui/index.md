@@ -4,6 +4,7 @@ date: 2024-05-10T09:00:11+00:00
 summary: "Pairing a consumer GPU running local Llama 3 with Open WebUI and One API to combine local and remote models behind one interface."
 tags: ["LLM", "Self-Hosting", "AI"]
 categories: ["Blog"]
+featureImage: "https://images.chengyu.eu/file/8f4fcf55f870d046f93e0.png"
 ---
 
 Got Llama 3 running locally on my consumer-grade GPU and set up Open WebUI as the interface for it. The install was easy — following the docs, a single Docker command was all it took, no real technical hurdles.

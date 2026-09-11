@@ -4,6 +4,7 @@ date: 2024-04-14T18:09:00+00:00
 summary: "Elmo can summarize any page on the fly — and it turns out that's genuinely useful for reading in a second language."
 tags: ["AI", "Browser Extensions"]
 categories: ["Blog"]
+featureImage: "https://images.chengyu.eu/file/5b0f34b822130a985b99a.png"
 ---
 
 Elmo is seriously good. This AI browser extension caught me off guard.

@@ -4,6 +4,7 @@ date: 2024-04-14T17:44:00+00:00
 summary: "Getting Immich running on a home NAS and bulk-uploading years of photos with the CLI."
 tags: ["Self-Hosting", "Synology", "Immich"]
 categories: ["Blog"]
+featureImage: "https://images.chengyu.eu/file/4841e1c76e255967acf80.png"
 ---
 
 I came across an article comparing photo-management tools, and what caught my attention was how well Immich supported AI-powered features. Since it's open-source and plugin-friendly, it's relatively easy to pair with the AI capabilities available today. I finally got it deployed on my NAS over the weekend — but when I tried importing my back catalogue of photos from an external drive, every Chinese-language guide I found online was out of date and the import kept failing. I eventually found the answer in the official docs. By the time it started working, my NAS's CPU was already pinned at 99% — it looked like the import wouldn't finish until the following evening.

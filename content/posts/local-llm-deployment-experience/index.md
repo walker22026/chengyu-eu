@@ -4,6 +4,7 @@ date: 2024-04-23T15:30:00+00:00
 summary: "Some hands-on experiments with un-tuned open models, and a few thoughts on where the real value in LLM products actually sits."
 tags: ["LLM", "AI", "Self-Hosting"]
 categories: ["Blog"]
+featureImage: "https://images.chengyu.eu/file/9c6f1d10adf57ed4a4793.png"
 ---
 
 Large language models have always felt a bit abstract to me, so to get a more concrete sense of what they can actually do, I recently deployed GPT-3.5 alongside Alibaba's open-source Qwen-7B locally, and tried applying both to real scenarios from my day job.
